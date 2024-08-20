@@ -2,6 +2,4 @@
 
 # Profe: Matias
 
-# Rama Master
-
-# Alumnos:
+# Rama prueba
